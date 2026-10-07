@@ -2,4 +2,6 @@ version: STSv1
 mode: enforce
 mx: mail.vanguardcloud.online
 mx: smtp.eu.mailgun.org
+mx: mxa.eu.mailgun.org
+mx: mxb.eu.mailgun.org
 max_age: 604800
