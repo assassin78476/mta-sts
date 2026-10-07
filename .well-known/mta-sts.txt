@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: sentinelx.dpdns.org
+mx: mail.vanguardcloud.online
 mx: smtp.eu.mailgun.org
 max_age: 604800
